@@ -16,6 +16,8 @@
 ![c7e90cc12d5519439c54cd8eefe809b](https://github.com/user-attachments/assets/dac1c8c9-7f9b-41e9-b931-57b963de538e)<br>
 3.复制本项目"ChaoXingAutoRead.js"全部内容到下图位置并保存<br>
 ![f82403968f6cc79670e987c7afa69ed](https://github.com/user-attachments/assets/910feee9-71af-46d7-a248-0bb7ac1e0f2f)<br>
+![65aed1114f165b96f5e131d76c045ea](https://github.com/user-attachments/assets/4a9bf786-d448-4db7-82d8-1cb16dc7d2b2)<br>
+
 4.打开待阅读内容，右上角会亮起角标，console控制台会打印内容表示脚本已开始运行<br>
 ![image](https://github.com/user-attachments/assets/df1bd359-6792-4180-a3bc-21ad06e48e8a)<br>
 5.识别到下一页会随机延时点击下一页<br>
