@@ -1,5 +1,5 @@
 # ChaoXingAutoRead
-超星学习通/超星尔雅/泛雅超星 自动阅读脚本2025
+超星学习通/超星尔雅/泛雅超星 自动翻页滚动 阅读脚本2025
 
 ## 免责声明
 该工具仅用于学习交流，切勿用于其他方面
@@ -23,7 +23,9 @@
 ![image](https://github.com/user-attachments/assets/df1bd359-6792-4180-a3bc-21ad06e48e8a)<br>
 
 5.识别到下一页会随机延时点击下一页<br>
-![e2aaaa5908a741a22ab1d81c2489617](https://github.com/user-attachments/assets/b019166b-94e6-43fa-b696-c9e6105540a3)
+![e2aaaa5908a741a22ab1d81c2489617](https://github.com/user-attachments/assets/b019166b-94e6-43fa-b696-c9e6105540a3)<br>
+
+6.这样你阅读的时候就可以自动滚动和翻页了。
 
 
 
